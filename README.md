@@ -1,4 +1,4 @@
-# sobre mim
+# sobre mimhttps://github.com/cardoso07/cardoso07/blob/main/README.md
 
 https://editor.p5js.org/mccsmlsg/sketches/5SKRlSl-H
 - 👋 olá meu nome é @cardoso07
